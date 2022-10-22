@@ -1,0 +1,5 @@
+name: MineDiscProximity
+version: '${project.version}'
+main: minediscproximity.minediscproximity.MineDiscProximity
+api-version: 1.19
+authors: [ Wojciech_Makuch ]
